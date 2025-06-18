@@ -33,8 +33,7 @@ PhantomStrike automates offensive recon across **15 attack phases**, covering:
 
 ## 🖥️ Demo
 
-![PhantomStrike CLI](https://i.imgur.com/YOUR_DEMO_GIF_OR_IMAGE.gif)  
-*Terminal output with hacker-style CLI visuals (faces, phases, and banners)*
+![PhantomStrike CLI](attackTool.png)  
 
 ---
 
@@ -123,7 +122,7 @@ This tool is distributed under an **Educational Use License**. You may modify, e
 
 ## 👨‍🎓 Author
 
-Created with ❤️ by **\[Your Name]**
+Created with ❤️ by **\[Arunabha Mishra]**
 GitHub: [github.com/SlowHackkr](https://github.com/SlowHackkr/)
 
 
