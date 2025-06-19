@@ -49,7 +49,7 @@ PhantomStrike automates offensive recon across **15 attack phases**, covering:
 ## 🚀 Usage
 
 ```bash
-git clone https://github.com/yourname/phantomstrike.git
+git clone https://github.com/SlowHackkr/phantomstrike.git
 cd phantomstrike
 pip install -r requirements.txt
 python3 phantomstrike.py --target https://example.com [--jwt <optional_token>]
